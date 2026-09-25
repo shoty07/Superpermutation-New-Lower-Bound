@@ -1,13 +1,13 @@
 # A New Lower Bound for the Superpermutation Problem
 
-I have discovered a new closed-form formula that establishes a tighter lower bound for the Superpermutation problem for any $n \ge 3$. 
+I have discovered a new closed-form formula for the Superpermutation problem for any $n \ge 3$. 
 
 ## The Formula
 
 The lower bound $L(n)$ for a superpermutation of $n$ symbols is given by:
 Let $\alpha$ be defined as:
 
-$$ \alpha = \left\lfloor \frac{\ln(n!-1)}{\ln(n)}-1 \right\rfloor $$
+$$ \alpha = \left\lfloor \frac{\ln(n!-1)}{\ln(n)} \right\rfloor $$
 
 Then, the lower bound $L(n)$ is:
 
