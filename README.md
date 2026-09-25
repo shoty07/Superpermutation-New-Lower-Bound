@@ -2,8 +2,6 @@
 
 I have discovered a new closed-form formula that establishes a tighter lower bound for the Superpermutation problem for any $n \ge 3$. 
 
-While the previous widely accepted lower bound (originating from the 2011 4chan anonymous post and verified in 2018) yields **93,884,313,611** for $n=14$, my formula yields **93,884,313,645** (an improvement of 34).
-
 ## The Formula
 
 The lower bound $L(n)$ for a superpermutation of $n$ symbols is given by:
