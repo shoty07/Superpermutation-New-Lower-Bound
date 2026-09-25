@@ -9,7 +9,7 @@ While the previous widely accepted lower bound (originating from the 2011 4chan 
 The lower bound $L(n)$ for a superpermutation of $n$ symbols is given by:
 Let $\alpha$ be defined as:
 
-$$ \alpha = \left\lfloor \frac{\ln(n!-1)}{\ln(n)} \right\rfloor $$
+$$ \alpha = \left\lfloor \frac{\ln(n!-1)}{\ln(n)}-1 \right\rfloor $$
 
 Then, the lower bound $L(n)$ is:
 
